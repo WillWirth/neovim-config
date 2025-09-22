@@ -1,3 +1,6 @@
+-- This file is partially ripped from ThePrimeagen Neovimrc.
+-- so credit to our boy Michael Paulson.
+-- More specifically all of the cmp configs and partial luasnip setup.
 return {
     'neovim/nvim-lspconfig',
     dependencies = {
